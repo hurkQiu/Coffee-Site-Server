@@ -1,0 +1,4 @@
+/coffee-site.db
+/coffee-site.db-*
+*.exe
+.env
